@@ -9,6 +9,7 @@
 I am a developer specialized in <b>cross-platform applications</b> and passionate about solving complex problems through technology. My experience ranges from <b>Java</b> and <b></b>Dart</b> development to managing modern databases such as <b>MongoDB</b>, <b></b> and <b>Firebase</b>.
 
 
+<br></br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -40,7 +41,7 @@ I am a developer specialized in <b>cross-platform applications</b> and passionat
     ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
     ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   
-    <br>
+    
 
 - **Softwares and Tools**:
 
@@ -51,7 +52,7 @@ I am a developer specialized in <b>cross-platform applications</b> and passionat
     ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
-<br>
+
 
 - **Extras**:
 
@@ -63,31 +64,40 @@ I am a developer specialized in <b>cross-platform applications</b> and passionat
 
 <br>   
 
-### 🌱 Actualmente aprendiendo
-- Desarrollo backend con **Node.js**
-- Programación en **JavaScript**
-- Frameworks frontend como **React**
+<p align="center">
 
----
+- **Learning**:
+    
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-thebadge&logo=javascript&logoColor=%23F7DF1E)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  
 
-## Check out my Social Media
+
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Check out my Social Media
 
 
-[Enviar correo a Pablo](mailto:pablo.grande@pablogrande.es?subject=Hola%20Pablo&body=Hola%20Pablo,%20quisiera%20hablar%20contigo%20sobre...)
-
-<a href="mailto:pablo.grande@pablogrande.es?subject=Hola%20Pablo&body=Hola%20Pablo,%20quisiera%20hablar%20contigo%20sobre...">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+<a href="mailto:pablo.grande@pablogrande.es" target="_blank">
+<img src="https://img.shields.io/badge/gmail: pablo.grande@pablogrande.es-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 <a href="https://www.linkedin.com/in/pablo-grande-ocampo-b18a1632a/?originalSubdomain=es">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
 
 
----
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
-### 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+<div align="center">
 
----
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=PabloGO4&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloGO4&theme=tokyonight&layout=compact)
 
-✨ ¡Gracias por visitar mi perfil! Si tienes ideas o quieres colaborar en algún proyecto, estaré encantado de conectarnos.
+</a>
+</div>
+
+<br>
+<br>
+<br>
+
+-----
