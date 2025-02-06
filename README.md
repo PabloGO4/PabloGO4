@@ -56,7 +56,7 @@ I am a developer specialized in <b>cross-platform applications</b> and passionat
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-thebadge&logo=javascript&logoColor=%23F7DF1E)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  </p>
+  
 
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Check out my Social Media
