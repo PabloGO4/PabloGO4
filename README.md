@@ -29,7 +29,7 @@ I am a developer specialized in <b>cross-platform applications</b> and passionat
     <p >
     ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
     ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-</p >
+
 
 
 **Databases**:
@@ -38,7 +38,7 @@ I am a developer specialized in <b>cross-platform applications</b> and passionat
     ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
     ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
     
-      </p >
+    
     
 
 **Softwares and Tools**:
